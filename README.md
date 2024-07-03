@@ -4,7 +4,7 @@ Python code for the fluid-particle decomposition approach for matching market de
 ## Paper
 For more details, please see the paper
 
-Akamatsu, T. and Oyama, Y. (forthcoming) [A fluid-particle decomposition approach to matching market design for crowdsourced delivery systems.](https://arxiv.org/abs/2312.01641). Transportation Research Part C: Emerging Technologies. 
+Akamatsu, T. and Oyama, Y. (forthcoming) [A fluid-particle decomposition approach to matching market design for crowdsourced delivery systems](https://arxiv.org/abs/2312.01641). Transportation Research Part C: Emerging Technologies. 
 
 If you find this code useful, please cite the paper:
 ```
